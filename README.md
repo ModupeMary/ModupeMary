@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋 I'm Modupe Ademola
+
+User Experience Engineer Enthuasiast  |  Budding Mobile Engineer | Life-long learner
 
 <!--
 **ModupeMary/ModupeMary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
