@@ -1,18 +1,26 @@
 # Hi there 👋 I'm Modupe Ademola
 
-User Experience Engineer Enthuasiast  |  Budding Mobile Engineer | Life-long learner
+User Experience Engineer Enthuasiast  |  Budding Mobile Engineer | 
+Life-long learner
 
-<!--
-**ModupeMary/ModupeMary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**##About Me**  
+- I'm a Women Techsters Fellow, Class of 2026
+- Currently learning Flutter and Dart Language
+- Exploring real-world projects.
+- Reach me at: dupeademola5@gmail.com
+
+
+**##Technologies & Tools**  
+- Flutter & Dart
+- Git  & GitHub
+- Figma
+
+
+**##Currently Learning**
+- Advanced Flutter Animations - Rive  
+- Firebase Integration  
+- Superbase Integration
+- Clean architecture patterns  
