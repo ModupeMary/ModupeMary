@@ -1,3 +1,6 @@
+![Banner](Black&White.jpg)
+
+
 # Hi there 👋 I'm Modupe Ademola
 
 User Experience Engineer Enthuasiast  |  Budding Mobile Engineer | 
